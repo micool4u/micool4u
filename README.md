@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="index.css">
 <nav id="navbar">
   <a href="#welcome-section">About</a>
   <a href="#projects">Projects</a>
