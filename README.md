@@ -4,6 +4,7 @@
 *The aim of this project is to build an effective calculator that can perform simple calculations,
 which include Subtraction Addition,Multiplication and Division.
 ### [RANDOM QUOTE MACHINE](https://codepen.io/ogunyinkamichael/pen/vYyPWze)
+*This project is a QUOTE MACHINE which gets a new quote when the GetButton is clicked 
 
 <!--
 **micool4u/micool4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
