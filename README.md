@@ -1,5 +1,6 @@
-# Micool
-### Welcome to My Page
+# Welcome to My Page
+## These are my Projects
+### [RANDOM QUOTE MACHINE](https://codepen.io/ogunyinkamichael/full/NWdWrzq)
 
 <!--
 **micool4u/micool4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
