@@ -3,7 +3,7 @@
 ### [JAVA SCRIPT CALCULATOR](https://codepen.io/ogunyinkamichael/full/NWdWrzq)
 *The aim of this project is to build an effective calculator that can perform simple calculations,
 which include Subtraction Addition,Multiplication and Division.
-### [RANDOM QUOTE MACHINE](https://codepen.io/ogunyinkamichael/pen/vYyPWze)
+### [RANDOM QUOTE MACHINE](https://codepen.io/ogunyinkamichael/full/vYyPWze)
 *This project is a QUOTE MACHINE which gets a new quote when the GetButton is clicked 
 
 <!--
