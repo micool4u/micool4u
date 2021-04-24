@@ -6,6 +6,7 @@ which include Subtraction Addition,Multiplication and Division.
 ### [DRUM MACHINE](https://codepen.io/ogunyinkamichael/full/abpXJgO)
 * When the each key is pressed a distinct sound is produced
 ### [MARKDOWN PREVIEWER](https://codepen.io/ogunyinkamichael/full/ExZrWBa)
+* This is a GitHub-like input and output way of doing things
 ### [RANDOM QUOTE MACHINE](https://codepen.io/ogunyinkamichael/full/vYyPWze)
 * This project is a QUOTE MACHINE which gets a new quote when the GetButton is clicked
 ###[]
