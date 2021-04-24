@@ -1,12 +1,12 @@
 # Welcome to My Page
 ## These are my Projects
 ### [JAVA SCRIPT CALCULATOR](https://codepen.io/ogunyinkamichael/full/NWdWrzq)
-*The aim of this project is to build an effective calculator that can perform simple calculations,
+* The aim of this project is to build an effective calculator that can perform simple calculations,
 which include Subtraction Addition,Multiplication and Division.
 ### [DRUM MACHINE](https://codepen.io/ogunyinkamichael/full/abpXJgO)
 * When the each key is pressed a distinct sound is produced
 ### [RANDOM QUOTE MACHINE](https://codepen.io/ogunyinkamichael/full/vYyPWze)
-*This project is a QUOTE MACHINE which gets a new quote when the GetButton is clicked
+* This project is a QUOTE MACHINE which gets a new quote when the GetButton is clicked
 ###[]
 
 <!--
