@@ -1,6 +1,7 @@
 # Welcome to My Page
 ## These are my Projects
-### [RANDOM QUOTE MACHINE](https://codepen.io/ogunyinkamichael/full/NWdWrzq)
+### [JAVA SCRIPT CALCULATOR](https://codepen.io/ogunyinkamichael/full/NWdWrzq)
+### [RANDOM QUOTE MACHINE](https://codepen.io/ogunyinkamichael/pen/vYyPWze)
 
 <!--
 **micool4u/micool4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
