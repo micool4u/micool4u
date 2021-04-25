@@ -1,6 +1,7 @@
 # Welcome to My Page
 ## These are my Projects
 ### [BLOCKAFRIC GLOBAL SERVICES](https://codepen.io/ogunyinkamichael/full/ExZrveq)
+* This is a simple payment platform FrontEnd Design
 ### [JAVA SCRIPT CALCULATOR](https://codepen.io/ogunyinkamichael/full/NWdWrzq)
 * The aim of this project is to build an effective calculator that can perform simple calculations,
 which include Subtraction Addition,Multiplication and Division.
